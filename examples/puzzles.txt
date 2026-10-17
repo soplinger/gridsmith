@@ -1,0 +1,8 @@
+# Gridsmith sample puzzles: one 81-cell puzzle per line. "." or "0" is a blank.
+# Lines starting with # and blank lines are ignored.
+
+# Classic textbook puzzle
+53..7....6..195....98....6.8...6...34..8.3..17...2...6.6....28....419..5....8..79
+
+# Same puzzle with zeros for blanks, and spaces between groups of nine
+530070000 600195000 098000060 800060003 400803001 700020006 060000280 000419005 000080079
